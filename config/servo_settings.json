@@ -1,0 +1,9 @@
+{
+    "left_eye_tilt": {"min": 0, "max": 180, "current": 90},
+    "right_eye_tilt": {"min": 0, "max": 180, "current": 90},
+    "head_rotate": {"min": 0, "max": 180, "current": 90},
+    "neck_upper_tilt": {"min": 0, "max": 180, "current": 90},
+    "neck_lower_tilt": {"min": 0, "max": 180, "current": 90},
+    "right_arm_rotate": {"min": 0, "max": 180, "current": 90},
+    "left_arm_rotate": {"min": 0, "max": 180, "current": 90}
+}
